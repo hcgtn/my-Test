@@ -1,7 +1,0 @@
-<?php
-	echo "new php";
-
-
-
-
-?>
